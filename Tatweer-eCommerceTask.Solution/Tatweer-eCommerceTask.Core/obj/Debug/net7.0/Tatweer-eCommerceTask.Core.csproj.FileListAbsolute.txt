@@ -1,0 +1,11 @@
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\bin\Debug\net7.0\Tatweer-eCommerceTask.Core.deps.json
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\bin\Debug\net7.0\Tatweer-eCommerceTask.Core.dll
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\bin\Debug\net7.0\Tatweer-eCommerceTask.Core.pdb
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\obj\Debug\net7.0\Tatweer-eCommerceTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\obj\Debug\net7.0\Tatweer-eCommerceTask.Core.AssemblyInfoInputs.cache
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\obj\Debug\net7.0\Tatweer-eCommerceTask.Core.AssemblyInfo.cs
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\obj\Debug\net7.0\Tatweer-eCommerceTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\obj\Debug\net7.0\Tatweer-eCommerceTask.Core.dll
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\obj\Debug\net7.0\refint\Tatweer-eCommerceTask.Core.dll
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\obj\Debug\net7.0\Tatweer-eCommerceTask.Core.pdb
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Core\obj\Debug\net7.0\ref\Tatweer-eCommerceTask.Core.dll

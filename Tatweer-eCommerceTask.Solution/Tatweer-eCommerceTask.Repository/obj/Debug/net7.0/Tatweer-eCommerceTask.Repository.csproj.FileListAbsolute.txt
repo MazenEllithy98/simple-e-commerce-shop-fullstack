@@ -1,0 +1,15 @@
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\bin\Debug\net7.0\Tatweer-eCommerceTask.Repository.deps.json
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\bin\Debug\net7.0\Tatweer-eCommerceTask.Repository.dll
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\bin\Debug\net7.0\Tatweer-eCommerceTask.Repository.pdb
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\bin\Debug\net7.0\Tatweer-eCommerceTask.Core.dll
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\bin\Debug\net7.0\Tatweer-eCommerceTask.Core.pdb
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\Tatweer-eCommerceTask.Repository.csproj.AssemblyReference.cache
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\Tatweer-eCommerceTask.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\Tatweer-eCommerceTask.Repository.AssemblyInfoInputs.cache
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\Tatweer-eCommerceTask.Repository.AssemblyInfo.cs
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\Tatweer-eCommerceTask.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\Tatweer-eCommerceTask.Repository.csproj.CopyComplete
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\Tatweer-eCommerceTask.Repository.dll
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\refint\Tatweer-eCommerceTask.Repository.dll
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\Tatweer-eCommerceTask.Repository.pdb
+C:\Users\Mazen Ellithy\Desktop\Work\TatweerTechnicalTest\Tatweer-eCommerceTask.Solution\Tatweer-eCommerceTask.Repository\obj\Debug\net7.0\ref\Tatweer-eCommerceTask.Repository.dll
