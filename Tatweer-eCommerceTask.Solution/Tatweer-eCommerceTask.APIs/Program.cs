@@ -60,6 +60,9 @@ app.UseStatusCodePagesWithReExecute("/errors/{0}");
 
 app.UseHttpsRedirection();
 
+app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
+
+
 app.UseAuthorization();
 
 app.MapControllers();
